@@ -1,0 +1,29 @@
+.logo {
+  height: 150px;
+  padding: 10%;
+}
+
+.btn {
+  color: white;
+  border: 1px solid white;
+  background-color: #33A5FF;
+  border-radius: 10px;
+}
+
+.btn:hover {
+  color: black;
+  border: 1px solid white;
+  background-color: #6EC7FE;
+}
+
+textarea {
+  margin: 10px;
+}
+
+.container-img {
+  padding: 5px;
+}
+
+.contenido-principal {
+  background-color: #89C1E3;
+}
